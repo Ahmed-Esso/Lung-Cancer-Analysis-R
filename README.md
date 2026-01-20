@@ -1,3 +1,5 @@
+<img width="3840" height="1600" alt="Respiratory System Biology Presentation in a Blue Pink Bold Style (1920 x 800 px)" src="https://github.com/user-attachments/assets/7b9cdcab-434f-49f0-8405-43bf092a33a7" />
+
 # 🫁 Lung Cancer Level Prediction Using R
 
 A comprehensive machine learning project for predicting lung cancer severity levels (Low, Medium, High) using various classification algorithms in R.
@@ -120,7 +122,7 @@ The project compares all models and displays:
 **Ahmed Essam**
 - GitHub: [@Ahmed-Esso](https://github.com/Ahmed-Esso)
 - Website: [ahmed-essam.framer.website](https://ahmed-essam.framer.website/)
-- Twitter: [@Ahmed__Esso](https://twitter.com/Ahmed__Esso)
+- LinkedIn: [@-ahmed-essam-](https://www.linkedin.com/in/-ahmed-essam-/)
 
 ## 📄 License
 
